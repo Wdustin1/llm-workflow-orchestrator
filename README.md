@@ -1,5 +1,9 @@
 # LLM Workflow Orchestrator
 
+## Quick start
+1) Install deps: `pip install -r requirements.txt`
+2) Run: `python src/orchestrator.py`
+
 ## Overview
 This project demonstrates a practical orchestration pattern for using multiple LLMs in a single workflow.
 
